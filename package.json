@@ -12,6 +12,7 @@
   "bugs": {
     "url": "https://github.com/loiane/javascript-datastructures-algorithms/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/loiane/javascript-datastructures-algorithms",
   "scripts": {
     "clean": "rm -rf ./dist ./coverage ./.nyc_output ./coverage.lcov ./mochawesome-report",
