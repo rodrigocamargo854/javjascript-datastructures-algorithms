@@ -1,6 +1,6 @@
 import Queue from '../data-structures/queue';
 
- function hotPotato(elementsList, num) {
+ export function hotPotato(elementsList, num) {
   const queue = new Queue();
   const elimitatedList = [];
 
